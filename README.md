@@ -9,7 +9,6 @@ This repository contains a Jupyter notebook designed to analyze a dataset of cre
 - [Handling PII](#handling-pii)
 - [Visualization and Analysis](#visualization-and-analysis)
 - [Results](#results)
-- [How to Run](#how-to-run)
 - [Project Structure](#project-structure)
 
 ## Objective
@@ -54,7 +53,3 @@ The notebook includes various visualizations to extract insights from the data:
 ## Results
 The analysis reveals trends in transaction behavior and provides insights into possible fraud indicators, such as unusual spending patterns or high-risk merchant categories.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Fraud-Detection-Analysis.git
